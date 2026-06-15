@@ -1,22 +1,21 @@
-# Cisco Packet Tracer Labs
+# Cisco Packet Tracer Cybersecurity Labs
 
-This repository contains Cisco Packet Tracer activities completed during the Cisco Networking Academy Cybersecurity Essentials course.
+This repository contains Cisco Networking Academy Packet Tracer labs completed as part of the Cybersecurity Essentials course.
 
-## Modules Completed
+## Completed Labs
 
 ### Module 01
 - Logical and Physical Mode Exploration
 
-## Skills Practiced
+### Module 02
+- Investigate a Threat Landscape
 
-- Network Topology Analysis
-- Physical and Logical Network Design
-- Ethernet Connectivity
-- USB Console Connectivity
-- Cisco IOS Configuration
-- Basic Network Troubleshooting
+## Skills Developed
 
-## Tools Used
-
-- Cisco Packet Tracer
-- Cisco IOS CLI
+- Network Security
+- Vulnerability Assessment
+- Packet Tracer Simulation
+- Wireless Security
+- DNS Security
+- Phishing Analysis
+- Cybersecurity Fundamentals
